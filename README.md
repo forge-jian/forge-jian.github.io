@@ -1,5 +1,5 @@
 # forge-jian.github.io
-Personal blog hosted in GitHub [https://forge-jian.github.io](https://forge-jian.github.io/)
+Personal blog hosted in GitHub [https://jianshi-codes.github.io](https://jianshi-codes.github.io/)
 
 # Development Environment
 1. Fetch and update bundled gems
